@@ -1,0 +1,11 @@
+{
+    "name": "kimlonglecis/wordpress-core",
+    "description": "WordPress is web software you can use to create a beautiful website or blog.",
+    "type": "wordpress-core",
+    "authors": [
+      {
+      "name": "WordPress Community",
+      "homepage": "http://wordpress.org/about/"
+      }
+    ] 
+  }
